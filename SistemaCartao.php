@@ -1,4 +1,5 @@
 <?php
+include 'Funcionario.php';
 
 // Classe SistemaCartao para gerenciar as operações do sistema
 class SistemaCartao

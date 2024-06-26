@@ -1,4 +1,6 @@
 <?php
+include 'Contato.php';
+include 'Saude.php';
 
 // Classe Funcionario para representar um funcionário
 class Funcionario
